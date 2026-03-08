@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
-import CatCard from './Components/CatCard';
-import CatDetail from './Components/CatDetail';
+import CatCard from './components/CatCard';
+import CatDetail from './components/CatDetail'; 
 import { getCats } from './services/catService';
 
 function App() {
