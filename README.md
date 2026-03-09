@@ -5,8 +5,6 @@ Galería de razas de gatos construida con React + Vite, integrada con servicios 
 
 
 - **Repositorio:** https://github.com/alejo8933/cats-aws
-- **Bucket S3:** https://cats-sena-2026.s3.amazonaws.com
-
 ---
 
 Arquitectura de la Solución
